@@ -20,7 +20,7 @@ namespace KingoJw
         public School School { get; set; }
         private LoginInfo LoginInfo { get; set; }
 
-        public Jw(string studentId)
+        private Jw(string studentId)
         {
             StudentId = studentId;
         }
