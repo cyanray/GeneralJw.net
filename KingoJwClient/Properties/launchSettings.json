@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KingoJwClient": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Project\\GeneralJw\\config"
+    }
+  }
+}
